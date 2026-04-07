@@ -2,6 +2,5 @@
   "url": "https://github.com/monaqa/tree-sitter-mermaid",
   "semver": false,
   "parser_version": "90ae195b31933ceb9d079abfa8a3ad0a36fee4cc",
-  "location": null,
   "lang": "mermaid"
 }
